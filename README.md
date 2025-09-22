@@ -46,3 +46,10 @@ Berikut penjelasannya untuk dataset Titanic:
 ### 6. Umur (`age`)
 * **Korelasi: -0.08 (Korelasi negatif sangat lemah)**
 * **Penjelasan:** Seperti `family_size`, hubungan antara umur dan keselamatan juga tidak sepenuhnya linear. Korelasi yang lemah ini disebabkan karena **anak-anak memiliki tingkat keselamatan yang tinggi**, sementara orang dewasa dan lansia memiliki tingkat yang lebih rendah. Efek-efek yang berlawanan ini membuat korelasi secara keseluruhan menjadi lemah.
+
+<img width="497" height="374" alt="image" src="https://github.com/user-attachments/assets/dededcbb-9986-4ccf-9573-027aea516ab8" />
+<img width="1001" height="547" alt="image" src="https://github.com/user-attachments/assets/11e33dcc-4210-4810-8714-3584febc710e" />
+<img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/d9df572d-ffcb-451e-8bad-52129dec90ef" />
+
+
+
